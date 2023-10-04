@@ -14,7 +14,7 @@
     "package": "npm run build-lib && npm run copy-readme && npm run npm-pack",
     "release": "npm run package && cd dist/email-editor && npm publish"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "^15.2.3",
     "@angular/common": "^15.2.3",

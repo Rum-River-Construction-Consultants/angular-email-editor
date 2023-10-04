@@ -1,6 +1,7 @@
 {
   "name": "@baselinetech/angular-email-editor",
   "version": "3.0.0",
+  "private": false,
   "peerDependencies": {
     "@angular/common": "^15.0.0",
     "@angular/core": "^15.0.0"
